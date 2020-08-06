@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="http://pic.dyf.ink/cyber.css" />
 
 
-### <font face="cyberpunk" size=30%>DYF</font>
+<font face="cyberpunk" size=30%>DYF</font>
 
 [![dyf@gmail](https://img.shields.io/static/v1?label=dyf@gmail.com&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:dyf.auroa@gmail.com)
 
