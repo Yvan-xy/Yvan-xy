@@ -2,10 +2,9 @@
 <link rel="stylesheet" type="text/css" media="all" href="http://pic.dyf.ink/cyber.css" />
 
 
-<font face="cyberpunk" size=30%>DYF</font>
+<font face="cyberpunk" size=30%>Yvan</font>
 
 [![dyf@gmail](https://img.shields.io/static/v1?label=dyf@gmail.com&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:dyf.auroa@gmail.com)
 
-- ❤️ Security, Program Analysis, OS Kernel, Resverse Engineering, Play with cat🐈 ...
-- 🌱 I’m currently learning *principles of compilation*
-
+- Security, Program Analysis, OS Kernel, Resverse Engineering, Cat🐈 ...
+- Incoming PHD student. Focus on ***Compiler Technique***
