@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 5">
+    <style>
+        @font-face {
+            font-family: 'Cyberpunk';
+            src: url('data:font/woff2;charset=utf-8;base64,d09GMgABAAAAAAT8AA4AAAAACOQAAASqAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYGYABUCAQRCAqHMIVzCxQAATYCJAMkBCAFhHkHNwwHGx0HUZQvToLsiwSbMwe3DqMRpqIRXtJ7bYRDz1mxiO/TEXy/992ec++vRabruFplQlV4bFCG7jEqTmFL9QyWN/Re9pN4k9bRbYpsidRi7pw9KDiAD8AXrC/lP29j/sMW1g3g/xwzXlGD7/2FDXg08YllYFRQB+AMK7G1QmDADXxgfDP0JqKf2prAEJBC6Aq19OKjFvk6x1uud3wRHTCpVXCsYa6bu4JqkEkyX6QmUXMZjbD4DaKbB4ANEBIFS4iAfoG6BAx1pWpDky7j5hu4HtD8cNMlxxyu9R42cwkkGiagB+aAEXEBxCsAVJAEhlQVWU940COmt1U8I8MH2KjerZ7GqL8VdbP+CZrWQA8TZLVAw+B0SoWUhgqaudr4AaUWPvpo6jse88cNDQasYo7SqojboFv07lF0ZDir0fZ6RQV5o0dUKPXBuFUoQaDtdXndOXXvxuUJpnCSOVpb63cRUt6H8OjYd3IfvGgeLUUFponhH+ENXmM3obViL1Iqp+uXuZDIO7QdUnJyAq/wBsVchJSvWxjVQNvBD+pW69bjYoSXlbaLBm/mlPoXcJKweVSlsZDqXWDaL16k1HZFgZmZsQ/2pXXoCYOneV7lKNEwyo5ljgYENJx4v06nw1nWbgwoT9DqTcHEot8JMoWTte/UYvY6Xv+e+t8VeoM3WO2Y5zmbp2g0vB965X3bccvx76VXGl8BGSM4jo+N55LQtJ9QEOBofRp4l+lXSRjCy9Oe3vcU8zn9jTvt0NrjORqfKWDwT97zhxYOQTD64Q+k819vSE6BKWByCvtm6p0dMunS5Qw74OQuG5fcARMOgnthRqZyyGbNQ/52rZVX4a3I8+5SfnD06x95d3p1PPACigmzBEy6X8wm7p+rPfKNENArw7iX69mL1uSzWTASWBxY5LGbxGXwkUPfK7/8YsFIeu/Tb70Qz1BvbENx8IQVx3GoMmVYjkWJZ9pPLPhaH77/f4hLpW9g+QNNLuYnDL37YQpG3GEMImoOfZkU+zCJ1Lh+IVb7u0110iKKtbTi/7q7WFwdXvn9bcjlAWjTVRt/SJAILFqeqfHLviC3gC/C/CkHcxsaG/wWuWYhyYd/JfH1g+I/452ZQ/avWRimft4jbtuyaiHj81qHHpi27596perNpZrl0smD1OYxzUAgePjb0dzhnPqPpMsfgM+Fr/nhs/zZ/r9T28oooCtzqMp9SIzmqkNMExChdS/u2QIlHgE6h6crLyXna4iDuk07Ocg9DwaccpFhdEkwzH0GBkIPG1JHD4ptLlDNpELLxCNom2mFvhVjNdPysGbdiqg9YW4PCGnsExQvXINqKyBoWQtfcTsMkwV9h9FTO4WQs/Sbpe6+6cm58ZEP3zhXNBVDf0i4pqVkKUYmoRy/Nzo2PCp+OtA4EeIvDEVRiDhCFvKYcP7pLc70L7cWzgD0p4EcS7r1mTZpzrgR1foMmDOqy7QcXUaNGjJgWpdJg6ZJkkn56iRcmOaVRosVLkq8cLIo0RIhaX0M/YwhE8alUYwsQi+Wl1n488kxrU+XWX16SRYMmTVI6k+bCD0mjIEJbJsqsoE9hIxUnMqVplVT5jx/NHQNAA==') format('woff2'),
+                url('subset-Cyberpunk-Regular.svg#Cyberpunk-Regular') format('svg');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
+    </style>
+    <text
+            x="0"
+            y="50%"
+            width="100%"
+            height="100%"
+            class="word"
+            font-family="Cyberpunk"
+            font-size="5px"
+    >
+        Yvan
+    </text>
+</svg>
