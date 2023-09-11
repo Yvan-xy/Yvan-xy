@@ -1,7 +1,4 @@
-<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=MaxXSoft&hide_border=true&show_icons=true&title_color=404040&text_color=606060&bg_color=151515"> -->
-
-
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yvan-xy&hide=javascript,html,shell,python,cmake,css,Makefile&layout=compact&langs_count=5&hide_border=true&show_icons=true&theme=transparent">
+<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yvan-xy&hide=javascript,html,shell,python,cmake,css,Makefile&layout=compact&langs_count=5&hide_border=true&show_icons=true&theme=transparent">
 
 
 <div style="margin:0;padding:0;">
