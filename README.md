@@ -8,5 +8,5 @@
 [![dyf@gmail](https://img.shields.io/static/v1?label=yvan.dong@cs.au.dk&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:yvan.dong@cs.au.dk)
 
 
-- PL, Compiler Optimization, Security, Cat🐈 ...
-- PHD student. Focus on ***Compiler Technique***
+- PL, Compiler Optimization, Computer Architecture, Cat🐈 ...
+- PHD student. Focus on ***Optimization*** now.
