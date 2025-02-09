@@ -9,4 +9,4 @@
 
 
 - PL, Compiler Optimization, Computer Architecture, Cat🐈 ...
-- PHD student. Focus on ***Optimization*** now.
+- PHD student. Focus on ***Concurrency*** now.
